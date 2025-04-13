@@ -5,19 +5,19 @@ Welcome to my Certification Repository! This repository contains my professional
 ## Certificates
 
 ### Coursera
+- **Ethical Emerging Technologies** (07-02-2025)  
+  [View Certificate](Coursera/Coursera%20Ethical%20Emerging.pdf)
 - **Software Development** (29-10-2024)  
   [View Certificate](Coursera/Coursera%20Software%20Development.pdf)
 - **Java FullStack Developer** (24-10-2024)  
   [View Certificate](Coursera/Coursera%20Java%20FullStack%20Developer.pdf)
+  - **Basics of Web** (21-07-2024)  
+  [View Certificate](Coursera/Coursera%20Basics%20of%20Web.pdf)
 - **Java Testing** (27-05-2024)  
   [View Certificate](Coursera/Coursera%20Java%20Testing.pdf)
-- **Basics of Web** (2024)  
-  [View Certificate](Coursera/Coursera%20Basics%20of%20Web.pdf)
-- **Ethical Emerging Technologies** (2024)  
-  [View Certificate](Coursera/Coursera%20Ethical%20Emerging.pdf)
 
 ### Cisco
-- **Introduction to Networks** (2024)  
+- **Introduction to Networks** (31-01-2024)  
   [View Certificate](Coursera/Cisco%20Introduction%20to%20Networks.pdf)
 
 ### FPT Academic
