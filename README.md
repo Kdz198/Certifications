@@ -11,7 +11,7 @@ Welcome to my Certification Repository! This repository contains my professional
   [View Certificate](Coursera/Coursera%20Software%20Development.pdf)
 - **Java FullStack Developer** (24-10-2024)  
   [View Certificate](Coursera/Coursera%20Java%20FullStack%20Developer.pdf)
-  - **Basics of Web** (21-07-2024)  
+- **Basics of Web** (21-07-2024)  
   [View Certificate](Coursera/Coursera%20Basics%20of%20Web.pdf)
 - **Java Testing** (27-05-2024)  
   [View Certificate](Coursera/Coursera%20Java%20Testing.pdf)
